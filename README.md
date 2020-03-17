@@ -1,7 +1,7 @@
 # SRDDN-TIE
 The implementation of the following paper in Pytorch
 ```
-Jiayi Ma, Xinya Wang, and Junjun Jiang. "Image Super-Resolution via Dense Discriminative Network", IEEE Transactions on Industrial Electronics, 67(7), pp. 5687-5695, Jul. 2020
+Jiayi Ma, Xinya Wang, and Junjun Jiang. "Image Super-Resolution via Dense Discriminative Network", IEEE Transactions on Industrial Electronics, 67(7), pp. 5687-5695, Jul. 2020.
 ```
 ## Dependencies
 ```
